@@ -1,6 +1,4 @@
-# Hi there, I'm Vinod Bavage 👋
-[![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square)](https://github.com/vinodbavage31)
-#
+# Hi there, I'm Vinod Bavage 👋 [![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square)](https://github.com/vinodbavage31)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinodportfolio.lovable.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-@vinodbavage-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinodbavage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodbavage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodbavage/)
