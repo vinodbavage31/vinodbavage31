@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm vinodbavage31
 
-<!--
-**vinodbavage31/vinodbavage31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves building useful things.
 
-Here are some ideas to get you started:
+## About me
+- 🔭 I’m currently working on personal projects and learning new web technologies
+- 🌱 I’m learning: JavaScript, React, and Go
+- 📫 How to reach me: [email](mailto:bavagevinod604@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vinodbavage/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python · SQL · AWS
+- Git · Docker · Linux
+- Data Science . Machine Learning . Deep Learning
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true)
+
+Thanks for visiting! 👋
