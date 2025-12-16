@@ -1,11 +1,16 @@
-# Hi there 👋 I'm vinodbavage31
+# Hi there, I'm Vinod Bavage 👋
 
-I'm a developer who loves building useful things.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinodportfolio.lovable.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-@vinodbavage-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinodbavage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinodbavage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodbavage/)
+[![Email](https://img.shields.io/badge/Email-bavagevinod604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bavagevinod604@gmail.com)
+
+I'm a developer who loves building useful things and solving problems with data.
 
 ## About me
-- 🔭 I’m currently working on personal projects and learning new web technologies  
-- 🌱 I’m learning: JavaScript, React, and Go  
-- 📫 How to reach me: [email](mailto:bavagevinod604@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vinodbavage/)
+- 🔭 I’m currently working on personal projects and building data-driven solutions  
+- 🌱 I’m learning: Data Science — focusing on model development, data pipelines, and ML deployment  
+- 📫 How to reach me: [email](mailto:bavagevinod604@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vinodbavage/)
 
 ## Most used languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=default)
