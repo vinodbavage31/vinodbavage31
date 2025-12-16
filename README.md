@@ -16,7 +16,7 @@ I'm a developer who loves building useful things and solving problems with data.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=default)
 
 ## GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=default)
+![GitHub stats]( https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=default&cache_seconds=1800)
 
 ## Skills
 - Python · SQL · AWS  
