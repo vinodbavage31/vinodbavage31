@@ -55,3 +55,4 @@ I'm a developer who loves building useful things and solving problems with data.
 I keep experiments and analyses in Jupyter notebooks — check my repos for `.ipynb` files and README-guides.
 
 Thanks for visiting! 👋
+Chec-out the websites attached to the projects
