@@ -32,10 +32,7 @@ I'm a **Data Science & Python Developer** passionate about building data-driven 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&count_private=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=default" height="165" />
-</p>
+![Snake animation](https://github.com/vinodbavage31/vinodbavage31/blob/main/dist/snake.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodbavage31&theme=default" />
