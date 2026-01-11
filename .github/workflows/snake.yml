@@ -12,12 +12,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: vinodbavage31
           outputs: |
             dist/snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Generate contribution snake" || exit 0
+          git push
