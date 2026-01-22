@@ -9,18 +9,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Data Science & Python Developer** passionate about building data-driven solutions, machine learning models, and scalable pipelines.
 
-- 🔭 Working on **personal & real-world data science projects**
-- 🌱 Learning **advanced ML, model deployment & data pipelines**
-- 🎯 Career focus: **Data Scientist / ML Engineer / Python Developer**
-- 📫 Reach me via **Email or LinkedIn**
+-  Working on **personal & real-world data science projects**
+-  Learning **advanced ML, model deployment & data pipelines**
+-  Career focus: **Data Scientist / ML Engineer / Python Developer**
+-  Reach me via **Email or LinkedIn**
 
 ---
 
-## 🧠 Skills Summary
+##  Skills Summary
 
 - **Programming:** Python, SQL  
 - **Data Science:** EDA, Feature Engineering, Machine Learning, Deep Learning  
@@ -30,7 +30,7 @@ I'm a **Data Science & Python Developer** passionate about building data-driven 
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 ![Snake animation](https://github.com/vinodbavage31/vinodbavage31/blob/main/dist/snake.svg)
 
@@ -44,7 +44,7 @@ I'm a **Data Science & Python Developer** passionate about building data-driven 
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,25 +64,25 @@ I'm a **Data Science & Python Developer** passionate about building data-driven 
 
 ---
 
-## 📁 Featured Work
+##  Featured Work
 
-- 📌 Machine Learning projects with clean EDA & model evaluation  
-- 📌 Python automation & data analysis notebooks  
-- 📌 End-to-end ML pipelines (training → evaluation → deployment-ready)  
+-  Machine Learning projects with clean EDA & model evaluation  
+-  Python automation & data analysis notebooks  
+-  End-to-end ML pipelines (training → evaluation → deployment-ready)  
 
-👉 **Check my repositories for detailed READMEs and notebooks**
+ **Check my repositories for detailed READMEs and notebooks**
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to:
 - Data Science & Python roles
 - Internships & entry-level opportunities
 - Collaboration on ML & data projects
 
-📩 Feel free to connect via **LinkedIn or Email**
+ Feel free to connect via **LinkedIn or Email**
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+ *If you like my work, consider starring my repositories!*
