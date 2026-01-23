@@ -38,7 +38,7 @@ class Developer:
     def __init__(self):
         self.name = "Vinod Bavage"
         self.role = ["Data Scientist", "Python Developer", "Web Developer"]
-        self.location = "Chennai, Tamil Nadu, IN"
+        self.location = "Hyderabad, Telangana, IN"
         self.tech_stack = {
             "data_science": ["Machine Learning", "Deep Learning", "EDA"],
             "web_dev": ["React", "TypeScript", "Tailwind CSS"],
