@@ -38,7 +38,7 @@ class Developer:
     def __init__(self):
         self.name = "Vinod Bavage"
         self.role = ["Data Scientist", "Python Developer", "Web Developer"]
-        self.location = "Hyderabad, Telangana, IN"
+        self.location = "Chennai, Tamil Nadu, IN"
         self.tech_stack = {
             "data_science": ["Machine Learning", "Deep Learning", "EDA"],
             "web_dev": ["React", "TypeScript", "Tailwind CSS"],
@@ -68,46 +68,14 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 
 ## Tech Stack
 
-### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,html,css,tailwind,vite,nodejs,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,mysql,mongodb,postgres,redis,firebase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux,bash,vscode,jupyter,postman" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,netlify,cloudflare" />
 </p>
 
 </div>
@@ -119,25 +87,30 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinodbavage31&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinodbavage31&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinodbavage31&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&layout=compact" alt="Coding Activity"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area_color=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodbavage31&theme=tokyonight" alt="Profile Summary"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodbavage31&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodbavage31&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodbavage31&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinodbavage31&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodbavage31&theme=radical" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
 
 </div>
@@ -223,14 +196,15 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 
 ## Featured Work
 
-Machine learning projects with clean EDA and model evaluation  
-Python automation and data analysis notebooks  
-10+ modern websites built with React, TypeScript, and Tailwind CSS  
-End-to-end ML pipelines from training to deployment
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Machine+learning+projects+with+production-ready+code;10%2B+modern+websites+built+with+React+%26+TypeScript;End-to-end+ML+pipelines+from+research+to+deployment;Python+automation+%26+data+analysis+solutions" alt="Featured Work" />
+</p>
 
-Check my repositories for detailed READMEs and interactive notebooks
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vinodbavage31&repo=vinodbavage31&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vinodbavage31)
+<p align="center">
+  <a href="https://github.com/vinodbavage31?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=F85D7F"/>
+  </a>
+</p>
 
 </div>
 
@@ -240,18 +214,11 @@ Check my repositories for detailed READMEs and interactive notebooks
 
 ## Let's Connect
 
-I'm open to:
-- Data Science & Python roles
-- Web Development positions
-- ML Engineer opportunities
-- Internships & entry-level positions
-- Collaboration on projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities;Let's+build+something+amazing+together!" alt="Connect" />
+</p>
 
-<br>
-
-### Reach Out
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/vinodbavage/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -259,13 +226,22 @@ I'm open to:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://vinod-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/vinodbavage">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinodbavage31&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br>
 
-If you like my work, consider starring my repositories
+<p align="center">
+  <i>⭐ If you find my work interesting, consider starring my repositories!</i>
+</p>
 
 </div>
 
