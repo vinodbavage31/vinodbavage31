@@ -71,9 +71,9 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,html,css,tailwind,vite,nodejs,express" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,mysql,mongodb,postgres,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb,postgres,redis,firebase" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux,bash,vscode,jupyter,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux,bash,vscode,postman" />
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,notion,vercel,netlify,cloudflare" />
 </p>
@@ -87,14 +87,13 @@ Open to Data Scientist, ML Engineer, and Python Developer roles
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinodbavage31&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
+<img 
+  width="49%" 
+  src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&cache_seconds=1800" 
+  alt="GitHub Stats"
+/>  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vinodbavage31&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodbavage31&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinodbavage31&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&layout=compact" alt="Coding Activity"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodbavage31&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
